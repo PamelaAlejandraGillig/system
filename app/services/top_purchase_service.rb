@@ -1,0 +1,3 @@
+class TopPurchase
+  
+end
